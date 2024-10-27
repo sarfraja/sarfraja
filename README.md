@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfraja&label=Profile%20views&color=0e75b6&style=flat" alt="sarfraja" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sarfrajalam.shop/](https://www.sarfrajalam.site/)
+- 👨‍💻 All of my projects are available at [https://www.sarfrajalam.site/](https://www.sarfrajalam.site/)
 
 - 💬 Ask me about **react.js, Angular, HTML, CSS, Bootstrap, JavaScript, Shopify, WIX, mySQL, MongoDB, Node.js, PHP, Wordpress.**
 
