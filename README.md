@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfraja&label=Profile%20views&color=0e75b6&style=flat" alt="sarfraja" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sarfrajalam.shop/](https://sarfrajalam.shop/)
+- 👨‍💻 All of my projects are available at [https://sarfrajalam.shop/](https://www.sarfrajalam.site/)
 
-- 💬 Ask me about **react.js, HTML, CSS, Bootstrap, JavaScript, Shopify, WIX, mySQL, PHP, Wordpress.**
+- 💬 Ask me about **react.js, Angular, HTML, CSS, Bootstrap, JavaScript, Shopify, WIX, mySQL, MongoDB, Node.js, PHP, Wordpress.**
 
 - 📫 How to reach me **sarfaraja879@gmail.com**
 
-- 📄 Know about my experiences [https://sarfrajalam.shop/static/media/SARFRAJ_ALAM.20df1b8e91b704fe1c24.pdf](https://sarfrajalam.shop/static/media/SARFRAJ_ALAM.20df1b8e91b704fe1c24.pdf)
+- 📄 Know about my experiences [https://www.sarfrajalam.site/My%20Resume.pdf](https://www.sarfrajalam.site/My%20Resume.pdf)
 
 - ⚡ Fun fact **The world's first website was created in 1990 by Tim Berners-Lee, a British physicist. Since then, web development has evolved significantly, with the introduction of HTML, CSS, and JavaScript. Mobile web usage has surged, leading to responsive design. Frameworks like React and Angular have streamlined development. Web development is an exciting and ever-changing field that requires staying up-to-date with trends and tools. Keep exploring and embracing new possibilities in this fascinating world!**
 
